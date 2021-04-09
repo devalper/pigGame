@@ -11,4 +11,4 @@ RULES:
 
 Nice game, enjoy!
 
-P.S.: It's not responsive yet :)
+P.S. It's not responsive yet :)
