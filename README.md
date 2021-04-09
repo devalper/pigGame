@@ -10,3 +10,4 @@ RULES:
 5) First player who <em>reaches</em> or <em>passes</e> <strong>"100"</strong> WINS the game.
 
 Nice game, enjoy!
+P.S.: It's not responsive yet :)
